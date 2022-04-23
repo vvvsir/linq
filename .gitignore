@@ -1,0 +1,6 @@
+*.tmp
+logs/*
+log/*
+.idea
+.vscode
+.DS_Store
